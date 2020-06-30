@@ -1,0 +1,50 @@
+[
+  {
+    "emp_id": "91c96113-8c74-4a5c-a8ac-451e09461bbf",
+    "emp_name": "Bhanu",
+    "emp_address": "Hyderabad",
+    "emp_mobile": "9999999999",
+    "emp_email": "b@gmail.com",
+    "emp_department": "Development",
+    "emp_designation": "Developer",
+    "emp_experience": "3",
+    "emp_salary": "1000000",
+    "emp_photo_path": "emp1.jpg"
+  },
+  {
+    "emp_id": "709ec8be-7e09-4d72-b7dc-eb6a062c13e6",
+    "emp_name": "Mounica",
+    "emp_address": "Bangalore",
+    "emp_mobile": "9696969696",
+    "emp_email": "a@gmail.com",
+    "emp_department": "HR",
+    "emp_designation": "HR",
+    "emp_experience": "5",
+    "emp_salary": "15000000",
+    "emp_photo_path": "emp2.jpg"
+  },
+  {
+    "emp_id": "72ef3985-ef1d-46cb-b05b-6f33841b2792",
+    "emp_name": "Ravi",
+    "emp_address": "Tamilnadu",
+    "emp_mobile": "9898989898",
+    "emp_email": "b@gmail.com",
+    "emp_department": "Accounts and Finance",
+    "emp_designation": "Accounts",
+    "emp_experience": "10",
+    "emp_salary": "200000000",
+    "emp_photo_path": "emp1.jpg"
+  },
+  {
+    "emp_id": "33efc259-171d-4f77-a11c-67fd683ac034",
+    "emp_name": "Hari",
+    "emp_address": "Hyderabad",
+    "emp_mobile": "8989898989",
+    "emp_email": "b@b.com",
+    "emp_department": "Infrastructure",
+    "emp_designation": "Manager",
+    "emp_experience": "15",
+    "emp_salary": "50000000",
+    "emp_photo_path": "emp1.jpg"
+  }
+]

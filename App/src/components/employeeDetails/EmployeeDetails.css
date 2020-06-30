@@ -1,0 +1,33 @@
+.empDeatils {
+  margin: 10px 0;
+  border-bottom: 1px solid grey;
+  border-color: #e5e8e8;
+  padding-left: 20px;
+}
+.empDeatilsHead {
+  color: grey;
+}
+.empDeatilsBody {
+  font-weight: 600;
+}
+.empCatBtn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.empCatOptios {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 8px 0;
+  border-color: #aab7b8;
+}
+.empMainBg {
+  padding-bottom: 10px;
+  background: url(/Images/empBg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tabSelected {
+  border-bottom: 2px solid blue;
+}

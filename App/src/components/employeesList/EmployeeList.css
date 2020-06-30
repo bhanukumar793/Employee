@@ -1,0 +1,21 @@
+.empList {
+  border-bottom: 0.5px solid grey;
+  padding: 2px 20px;
+  height: 20%;
+}
+.empList p {
+  margin: 0;
+}
+.empList:hover {
+  cursor: pointer;
+}
+.empMainList {
+  border: 0.5px solid grey;
+  border-bottom: none;
+  width: 40%;
+  margin: 2px auto;
+  border-radius: 2%;
+  height: fit-content;
+  max-height: 80vh;
+  overflow: auto;
+}

@@ -1,0 +1,12 @@
+.userDetails {
+  padding: 10px 20px;
+  width: 60%;
+  border-radius: 3px;
+  border: 1px solid grey;
+  font-size: 15px;
+  outline: none;
+}
+.loginBtn {
+  width: 60%;
+  padding: 2% 5%;
+}
